@@ -1,5 +1,11 @@
 # SpecFlow CLI
 
+[![npm version](https://img.shields.io/npm/v/@chiuweilun1107/specflow-cli.svg)](https://www.npmjs.com/package/@chiuweilun1107/specflow-cli)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen.svg)](https://nodejs.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/chiuweilun1107/aidevelop-template.svg)](https://github.com/chiuweilun1107/aidevelop-template/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/chiuweilun1107/aidevelop-template.svg)](https://github.com/chiuweilun1107/aidevelop-template/issues)
+
 一个专为 AI 辅助开发设计的**规范驱动开发 CLI 工具**，将提示词工作流工程化。
 
 ## 📋 项目背景
