@@ -1,0 +1,36 @@
+# Source files (不发布源代码，只发布编译后的)
+src/
+tsconfig.json
+
+# Tests
+tests/
+*.test.ts
+*.spec.ts
+
+# Development files
+.vscode/
+.idea/
+*.swp
+
+# CI/CD
+.github/
+
+# Documentation source
+docs/
+
+# Examples and demos
+examples/
+demo/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keep these
+!dist/
+!bin/
+!README.md
+!LICENSE
